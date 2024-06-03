@@ -15,6 +15,11 @@ This project involves creating a C# application based on the provided GUI mock-u
 
 ![image](https://github.com/LorenzoDOrtiz/Inventory-Management-System/assets/7910477/ce5be1a4-202b-42d9-a569-4650e7adb54f)
 
+![image](https://github.com/LorenzoDOrtiz/Inventory-Management-System/assets/7910477/2dc87367-08de-4e24-b92e-b7494d3127b3)
+
+![image](https://github.com/LorenzoDOrtiz/Inventory-Management-System/assets/7910477/a4f47dc8-007b-466f-8384-767595430c04)
+
+
 ## Setup Instructions
 1. Clone the repository:
    ```bash
