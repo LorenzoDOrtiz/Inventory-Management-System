@@ -12,7 +12,7 @@ This project involves creating a C# application based on the provided GUI mock-u
 - Implementation of appropriate classes, methods, and properties as specified in the UML class diagram.
 - Behaviors for adding, modifying, and deleting parts and products.
 - Data validation to prevent input errors and ensure data integrity.
-- 
+
 ![image](https://github.com/LorenzoDOrtiz/Inventory-Management-System/assets/7910477/ce5be1a4-202b-42d9-a569-4650e7adb54f)
 
 ## Setup Instructions
@@ -37,6 +37,3 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 3. Commit your changes.
 4. Push to the branch.
 5. Submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
